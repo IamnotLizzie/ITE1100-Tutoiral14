@@ -1,7 +1,7 @@
 # ITE 1100 - Tutorial #4
 
 ## Project Purpose
-This repository was created This repository was created as part of ITE 1100 Tutorial #4 to demonstrate my understanding of Git, GitHub, version control, branches, commits, pull requests, and collaboration.
+This repository was created as part of ITE 1100 Tutorial #4 to demonstrate my understanding of Git, GitHub, version control, branches, commits, pull requests, and collaboration.
  
 ## Steps Completed
 1. Installed Git on my Windows computer.
