@@ -17,7 +17,7 @@ This repository was created This repository was created as part of ITE 1100 Tuto
 11. Created an additional branch named update-readme to improve the project documentation and demonstrate the review and approval process.
 
 ## Collaborators
-- Shanee Kesney – GitHub username: jamiah873
+- Shanee Kesney – GitHub username: jamiah873 
 - Collaborator – GitHub username: IamnotLizzie
 
 ## Project Files
