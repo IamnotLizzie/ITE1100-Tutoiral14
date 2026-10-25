@@ -1,8 +1,8 @@
 # ITE 1100 - Tutorial #4
 
 ## Project Purpose
-This repository was created This repository was created as part of ITE 1100 Tutorial #4 to demonstrate my understanding of Git, GitHub, version control, branches, commits, pull requests, and collaboration.
-
+This repository was created as part of ITE 1100 Tutorial #4 to demonstrate my understanding of Git, GitHub, version control, branches, commits, pull requests, and collaboration.
+ 
 ## Steps Completed
 1. Installed Git on my Windows computer.
 2. Created a local Git repository using Git Bash.
@@ -17,7 +17,7 @@ This repository was created This repository was created as part of ITE 1100 Tuto
 11. Created an additional branch named update-readme to improve the project documentation and demonstrate the review and approval process.
 
 ## Collaborators
-- Shanee Kesney – GitHub username: jamiah873
+- Shanee Kesney – GitHub username: jamiah873 
 - Collaborator – GitHub username: IamnotLizzie
 
 ## Project Files
